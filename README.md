@@ -1,3 +1,0 @@
-# cutthroatIQ
-#!/usr/bin/perl
-
